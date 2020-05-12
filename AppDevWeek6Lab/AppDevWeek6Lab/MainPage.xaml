@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppDevWeek6Lab.MainPage"
+             xmlns:local="clr-namespace:AppDevWeek6Lab">
+
+    <StackLayout Margin="20">
+        <StackLayout.GestureRecognizers>
+            <SwipeGestureRecognizer Direction="Left" Command="{Binding SwipeCommand}" CommandParameter="Left"/>
+            <SwipeGestureRecognizer Direction="Right" Command="{Binding SwipeCommand}" CommandParameter="Right" />
+        </StackLayout.GestureRecognizers>
+        <!-- Place new controls here -->
+        <Label x:Name="ImgLbl" Text="{Binding FileDescription}" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Image Source="{Binding ImageName}" Aspect="AspectFit" HeightRequest="{OnPlatform iOS=300, Android=250}" HorizontalOptions="Center" >
+            <Image.GestureRecognizers>
+                <SwipeGestureRecognizer Direction="Left" Command="{Binding SwipeCommand}" CommandParameter="Left"/>
+                <SwipeGestureRecognizer Direction="Right" Command="{Binding SwipeCommand}" CommandParameter="Right" />
+            </Image.GestureRecognizers>
+        </Image>
+    </StackLayout>
+
+</ContentPage>

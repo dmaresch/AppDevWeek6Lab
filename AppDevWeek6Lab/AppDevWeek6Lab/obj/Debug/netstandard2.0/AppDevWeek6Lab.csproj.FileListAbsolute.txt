@@ -1,0 +1,14 @@
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\bin\Debug\netstandard2.0\AppDevWeek6Lab.deps.json
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\bin\Debug\netstandard2.0\AppDevWeek6Lab.dll
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\bin\Debug\netstandard2.0\ref\AppDevWeek6Lab.dll
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\bin\Debug\netstandard2.0\AppDevWeek6Lab.pdb
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\AppDevWeek6Lab.csprojAssemblyReference.cache
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\AppDevWeek6Lab.csproj.CoreCompileInputs.cache
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\AppDevWeek6Lab.AssemblyInfoInputs.cache
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\AppDevWeek6Lab.AssemblyInfo.cs
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\AppDevWeek6Lab.dll
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\ref\AppDevWeek6Lab.dll
+C:\Users\DubDubChan\Source\Repos\AppDevWeek6Lab\AppDevWeek6Lab\AppDevWeek6Lab\obj\Debug\netstandard2.0\AppDevWeek6Lab.pdb
